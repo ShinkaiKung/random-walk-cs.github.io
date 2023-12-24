@@ -7,7 +7,7 @@ featured: true
 draft: false
 tags:
   - 日志
-  - 年度Review
+  - 年度review
 description: Review of 2019——2019随想
 ---
 
