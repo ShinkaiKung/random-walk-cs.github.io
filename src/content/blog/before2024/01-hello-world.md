@@ -7,6 +7,7 @@ featured: true
 draft: false
 tags:
   - 日志
+  - 博客self
 description: 开场白~~~
 ---
 

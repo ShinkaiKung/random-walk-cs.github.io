@@ -3,10 +3,11 @@ author: 公子小白
 pubDatetime: 2020-01-04T01:37:00Z
 title: Review of 2019——2019随想
 postSlug: "07"
-featured: false
+featured: true
 draft: false
 tags:
   - 日志
+  - 年度Review
 description: Review of 2019——2019随想
 ---
 
