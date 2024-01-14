@@ -130,7 +130,7 @@ plt.plot(range(len(temp)), temp)
 plt.show()
 ```
 
-![](@assets/images/21-1-300x200.png)
+![](@assets/images/wp-era/21-1-300x200.png)
 
 _绘制前十天的温度时间数据_：
 
@@ -139,7 +139,7 @@ plt.plot(range(1440), temp[:1440])
 plt.show()
 ```
 
-![](@assets/images/21-2-300x197.png)
+![](@assets/images/wp-era/21-2-300x197.png)
 
 ### 数据预处理
 
@@ -308,7 +308,7 @@ plt.legend()
 plt.show()
 ```
 
-![](@assets/images/21-3-300x213.png)
+![](@assets/images/wp-era/21-3-300x213.png)
 
 可以看出密集连接神经网络得到的结果并不好。
 
@@ -351,7 +351,7 @@ plt.legend()
 plt.show()
 ```
 
-![](@assets/images/21-4-300x209.png)
+![](@assets/images/wp-era/21-4-300x209.png)
 
 ## 过拟合的判断和解决方案
 

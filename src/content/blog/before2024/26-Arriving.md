@@ -22,14 +22,14 @@ description: Arriving
 
 刚好外卖到了，即时收笔（22：33），本来还有些想写的话一下子就写不出来了，吃饭要紧，哈哈！！！
 
-![](@assets/images/63-0-540x720.jpg)
+![](@assets/images/wp-era/63-0-540x720.jpg)
 
 发几张高铁上拍的云，我觉得还挺好看的。
 
-![](@assets/images/63-1-720x540.jpg)
+![](@assets/images/wp-era/63-1-720x540.jpg)
 
-![](@assets/images/63-2-720x540.jpg)
+![](@assets/images/wp-era/63-2-720x540.jpg)
 
-![](@assets/images/63-3-720x540.jpg)
+![](@assets/images/wp-era/63-3-720x540.jpg)
 
 在高铁上本来准备多看点《美国真相》的，结果看了3章之后发现高铁上4G信号居然不错，就继续看上午没看完的《Doctor X》了。至于今晚，当然是把第六季看完啦！

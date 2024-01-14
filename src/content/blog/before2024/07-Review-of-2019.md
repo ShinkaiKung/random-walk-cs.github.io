@@ -1,14 +1,14 @@
 ---
 author: 公子小白
 pubDatetime: 2020-01-04T01:37:00Z
-title: Review of 2019——2019随想
+title: Review of 2019——2019 随想
 postSlug: "07"
 featured: true
 draft: false
 tags:
   - 日志
   - 年度review
-description: Review of 2019——2019随想
+description: Review of 2019——2019 随想
 ---
 
 现在是2020年1月4日凌晨，几个小时前刚刚考完令人绝望的公司金融。也就是我在复习公司金融的这几天里，2019年走完了它最后的几天。回过神来，只有XA发来的新年祝福，我则祝福她新年快乐、高考加油！甚至都没注意到，也许也该给其他人也送上祝福，可惜，为时已晚了。

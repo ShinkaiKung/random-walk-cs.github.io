@@ -47,7 +47,7 @@ conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/f
 conda config --set show_channel_urls yes
 ```
 
-![](@assets/images/20-1-1024x196.png)
+![](@assets/images/wp-era/20-1-1024x196.png)
 
 然后输入以下代码：python版本号可在cmd下输入python确定。
 
@@ -57,7 +57,7 @@ conda create -n tensorflow python=3.7.6
 
 输入"y"，继续程序。
 
-![](@assets/images/20-2.png)
+![](@assets/images/wp-era/20-2.png)
 
 激活TensorFlow：
 
@@ -65,7 +65,7 @@ conda create -n tensorflow python=3.7.6
 activate tensorflow
 ```
 
-![](@assets/images/20-3.png)
+![](@assets/images/wp-era/20-3.png)
 
 然后安装Tensorflow CPU版本：
 
@@ -73,11 +73,11 @@ activate tensorflow
 pip install -i https://pypi.tuna.tsinghua.edu.cn/simple tensorflow
 ```
 
-![](@assets/images/20-4-1024x393.png)
+![](@assets/images/wp-era/20-4-1024x393.png)
 
 打开ANACONDA NAVIGATOR，在tensorflow下（原显示的是base）安装解释器，此处安装Jupyter Notebook。
 
-![](@assets/images/20-5-1024x438.png)
+![](@assets/images/wp-era/20-5-1024x438.png)
 
 测试TensorFlow是否安装成功，（用于测试TensorFlow 2.0版本）在JuputerNotebook中运行以下代码：
 
@@ -105,7 +105,7 @@ activate tensorflow
 pip install keras
 ```
 
-![](@assets/images/20-6-1024x348.png)
+![](@assets/images/wp-era/20-6-1024x348.png)
 
 测试是否安装成功，在python下输入以下代码：
 
@@ -115,7 +115,7 @@ import keras
 
 如果输出“Using TensorFlow backend.”则成功。
 
-![](@assets/images/20-7-1024x187.png)
+![](@assets/images/wp-era/20-7-1024x187.png)
 
 没有GPU的穷人可以忽略下面两行无关输出。。。
 
